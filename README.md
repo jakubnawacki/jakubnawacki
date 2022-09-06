@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubnawacki&label=Profile%20views&color=0e75b6&style=flat" alt="jakubnawacki" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & Solidity**
+- 🌱 I’m currently learning **JavaScript & Solidity & React**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-nawacki-4091ba19b/](https://www.linkedin.com/in/jakub-nawacki-4091ba19b/)
 
