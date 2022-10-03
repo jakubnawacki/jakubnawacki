@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-nawacki-4091ba19b/](https://www.linkedin.com/in/jakub-nawacki-4091ba19b/)
 
+- 📝 I`m currently working on 30days challange in programming starting with HTML & CSS to final project in React ->> https://www.instagram.com/cooding_from_scratch_challange/
+
 - 📫 How to reach me **jakubnawacki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
