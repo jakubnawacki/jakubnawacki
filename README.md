@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubnawacki&label=Profile%20views&color=0e75b6&style=flat" alt="jakubnawacki" /> </p>
 
-- 🌱 I’m currently learning **JavaScript & Solidity & React**
+- 🌱 I’m currently learning **JavaScript & React**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-nawacki-4091ba19b/](https://www.linkedin.com/in/jakub-nawacki-4091ba19b/)
-
-- 📝 I`m currently working on 30days challange in programming starting with HTML & CSS to final project in React ->> https://www.instagram.com/cooding_from_scratch_challange/
 
 - 📫 How to reach me **jakubnawacki@gmail.com**
 
