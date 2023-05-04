@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jakub-nawacki-4091ba19b/](https://www.linkedin.com/in/jakub-nawacki-4091ba19b/)
 
-- 💬 Ask me about **Wordpress, PHP, JS**
+- 💬 Ask me about **Power Apps, Power BI, Power Automate, PHP, JS**
 
 - 📫 How to reach me **jakubnawacki@gmail.com**
 
